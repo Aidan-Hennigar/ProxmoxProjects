@@ -30,3 +30,9 @@ Hosts PLex server with auto pull script to change metadata from sandboxed Qbit d
 
 *Qbit*
 Hosts Qbit webUI with Mullvad tunnel via WireGuard, preventing any dns leaks.
+
+
+*Update!*
+Windows server setup, absolute pain in the ass, server 2025 core. Could not install Word, switched to server W gui, couldn't just install word, had to do full office installation. Com integration and WSL are now set up in working order to run one of my projects. 
+Basically started over, setting everything up much smoother, ZFS directories for things that we want to keep separate, nice network share container running samba that links to the three main zfs direcotries, general, photos, and mediarr.
+Media services are now running on an Ubuntu server vm, connected to that network share. Everything is managed with Docker for easy updates and simplified networking.
