@@ -1,5 +1,5 @@
 # ProxmoxProjects
-An overview of my processes and setup of my Proxmox server, where I learn and play.
+An overview of my processes and setup of my Proxmox server.
 
 Remove the remains of what once was.
 
